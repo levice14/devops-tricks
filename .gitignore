@@ -1,0 +1,12 @@
+target/
+output/
+build/cli/
+*.class
+*.log
+.idea/
+*.ipr
+*.iml
+.settings/
+.project
+.classpath
+*.history
