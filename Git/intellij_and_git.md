@@ -2,21 +2,21 @@ Git commands you can combine with IntelliJ features -- examples via [CloudSlang]
 
 -	list remotes: `git remote [-v]`
 
-![list_remotes](http://imgur.com/SOxjjAw)
+![list_remotes](http://imgur.com/SOxjjAw.png)
 
-![list_remotes_verbose](http://imgur.com/u9jAoI5)
+![list_remotes_verbose](http://imgur.com/u9jAoI5.png)
 
 - add remote: `git remote add <remote_name> git@github.com:<gh_user>/cloud-slang.git`
 
-![add_remote](http://imgur.com/9CZSWnp)
+![add_remote](http://imgur.com/9CZSWnpv.png)
 
 - get the stuff: g`it fetch <remote_name>`
 
-![fetch](http://imgur.com/dQnu1kJ)
+![fetch](http://imgur.com/dQnu1kJ.png)
 
 -	now you can access remotes / branches from IntelliJ UI:
 
-![intellij_ui](http://imgur.com/xKLtf05)
+![intellij_ui](http://imgur.com/xKLtf05.png)
 
 - once you have too many remotes / branches you can clean up with:
 
