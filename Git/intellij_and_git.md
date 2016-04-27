@@ -10,7 +10,7 @@ Git commands you can combine with IntelliJ features -- examples via [CloudSlang]
 
 ![add_remote](http://i.imgur.com/9CZSWnp.png)
 
-- get the stuff: g`it fetch <remote_name>`
+- get the stuff: `git fetch <remote_name>`
 
 ![fetch](http://imgur.com/dQnu1kJ.png)
 
