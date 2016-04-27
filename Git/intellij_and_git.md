@@ -8,7 +8,7 @@ Git commands you can combine with IntelliJ features -- examples via [CloudSlang]
 
 - add remote: `git remote add <remote_name> git@github.com:<gh_user>/cloud-slang.git`
 
-![add_remote](http://imgur.com/9CZSWnpv.png)
+![add_remote](http://i.imgur.com/9CZSWnp.png)
 
 - get the stuff: g`it fetch <remote_name>`
 
